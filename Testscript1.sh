@@ -1,0 +1,10 @@
+#script1.sh : This is my first commit.....
+#Executing below commands :see below outputs
+clear
+echo "Starting shell script...";
+ls -ltr
+node -v;
+npm -v;
+git --version;
+composer -v;
+echo "Ending of the script...";
