@@ -1,3 +1,4 @@
+#!/bin/bash
 #script1.sh : This is my first commit.....
 #Executing below commands :see below outputs
 clear
