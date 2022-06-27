@@ -3,8 +3,7 @@
 clear
 echo "Starting shell script...";
 ls -ltr
-node -v;
-npm -v;
+java -version;
 git --version;
 composer -v;
 echo "Ending of the script...";
